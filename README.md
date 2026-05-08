@@ -1,9 +1,9 @@
-AetherFlow Lite
+AetherFlow Lite --
 AetherFlow Lite is a modern, high-performance mouse automation and UI enhancement tool built with C# and WPF. It combines utility with a premium, aesthetic design featuring glassmorphism and real-time visual effects.
 
 !! Full Secure application Virus Total Link -- https://www.virustotal.com/gui/file/e6ef2629dbfb51903bc4585e3fb04f3469ed025c29d286206298e81f493ff0e6?nocache=1
 
-Core Features
+Core Features --!
 Advanced Auto-Clicker: High-speed automated clicking functionality for productivity and gaming.
 
 Mouse Pulse Effects: Real-time visual feedback with a "pulse" effect upon clicking.
@@ -16,21 +16,21 @@ Intuitive Navigation: Clean sidebar-based navigation system for easy access to H
 
 Performance Optimized: Lightweight architecture designed to run smoothly on Windows 10 and 11.
 
-Visuals
+Visuals --
 Theme: Dark Frosted Glass (0.65 Opacity).
 
 Primary Accent: Neon Cyan and Magenta RGB Glow.
 
 UI Components: Rounded corners (25px), interactive glass buttons, and low-opacity sidebar.
 
-Technical Specifications
+Technical Specifications --
 Framework: .NET 10.0-windows (Targeting Windows 10.0.19041.0).
 
 Language: C# (WinForms Hooks + WPF UI).
 
 Rendering: Hardware-accelerated transparency and drop-shadow effects.
 
-How to Run
+How to Run --
 Ensure you have directX installed.
 
 Download the latest release from the Releases section.
