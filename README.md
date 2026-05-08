@@ -1,6 +1,8 @@
 AetherFlow Lite
 AetherFlow Lite is a modern, high-performance mouse automation and UI enhancement tool built with C# and WPF. It combines utility with a premium, aesthetic design featuring glassmorphism and real-time visual effects.
 
+!! Full Secure application Virus Total Link -- https://www.virustotal.com/gui/file/e6ef2629dbfb51903bc4585e3fb04f3469ed025c29d286206298e81f493ff0e6?nocache=1
+
 Core Features
 Advanced Auto-Clicker: High-speed automated clicking functionality for productivity and gaming.
 
